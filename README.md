@@ -221,53 +221,13 @@ This section presents the execution results of the implemented algorithms.
 
 **Sample Output:**
 
-```text
-=============================================
-             DINIC'S ALGORITHM
-=============================================
-
-Number of Vertices: 6
-Number of Edges: 8
-Source: 0
-Sink: 5
-
-Calculating Maximum Flow...
-
-Maximum Flow: 6
-
-=============================================
-```
-
-**Execution Screenshot:**
-
-Insert your Dinic's Algorithm execution screenshot here.
+<img width="398" height="347" alt="image" src="https://github.com/user-attachments/assets/1861c5b4-6ba8-47b4-98d9-b34f69d1e522" />
 
 ### 6.2 Push-Relabel Algorithm
 
 **Sample Output:**
 
-```text
-=============================================
-            PUSH-RELABEL ALGORITHM
-=============================================
-
-Number of Vertices: 6
-Number of Edges: 8
-Source: 0
-Sink: 5
-
-Calculating Maximum Flow...
-
-Maximum Flow: 6
-
-=============================================
-```
-
-**Execution Screenshot:**
-
-Insert your Push-Relabel Algorithm execution screenshot here.
-
----
+<img width="403" height="351" alt="image" src="https://github.com/user-attachments/assets/ad4752f9-9cfa-4c81-b817-004b356cbba7" />
 
 ## 7. AI Tools Usage Disclosure
 
